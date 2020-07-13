@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactjs-admin-dashboard-jeoverno/static/css/main.c8c89e32.chunk.css",
+    "main.js": "/reactjs-admin-dashboard-jeoverno/static/js/main.14facb70.chunk.js",
+    "main.js.map": "/reactjs-admin-dashboard-jeoverno/static/js/main.14facb70.chunk.js.map",
+    "runtime-main.js": "/reactjs-admin-dashboard-jeoverno/static/js/runtime-main.8ab8ab9d.js",
+    "runtime-main.js.map": "/reactjs-admin-dashboard-jeoverno/static/js/runtime-main.8ab8ab9d.js.map",
+    "static/css/2.ecd3226c.chunk.css": "/reactjs-admin-dashboard-jeoverno/static/css/2.ecd3226c.chunk.css",
+    "static/js/2.f37d7988.chunk.js": "/reactjs-admin-dashboard-jeoverno/static/js/2.f37d7988.chunk.js",
+    "static/js/2.f37d7988.chunk.js.map": "/reactjs-admin-dashboard-jeoverno/static/js/2.f37d7988.chunk.js.map",
+    "index.html": "/reactjs-admin-dashboard-jeoverno/index.html",
+    "precache-manifest.87daeead05e9cf0b49df241ce8b465f4.js": "/reactjs-admin-dashboard-jeoverno/precache-manifest.87daeead05e9cf0b49df241ce8b465f4.js",
+    "service-worker.js": "/reactjs-admin-dashboard-jeoverno/service-worker.js",
+    "static/css/2.ecd3226c.chunk.css.map": "/reactjs-admin-dashboard-jeoverno/static/css/2.ecd3226c.chunk.css.map",
+    "static/css/main.c8c89e32.chunk.css.map": "/reactjs-admin-dashboard-jeoverno/static/css/main.c8c89e32.chunk.css.map",
+    "static/js/2.f37d7988.chunk.js.LICENSE.txt": "/reactjs-admin-dashboard-jeoverno/static/js/2.f37d7988.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ab8ab9d.js",
+    "static/css/2.ecd3226c.chunk.css",
+    "static/js/2.f37d7988.chunk.js",
+    "static/css/main.c8c89e32.chunk.css",
+    "static/js/main.14facb70.chunk.js"
+  ]
+}
